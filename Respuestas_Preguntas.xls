@@ -1,0 +1,14 @@
+¿Quien invento el sistema de control de versión Git y por que ? 
+Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+¿A quién pertenece actualmente Github y por qué?
+El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
+Por que GitHub, que cuenta con más de 28 millones de usuarios, pasará a formar parte del negocio de Inteligencia en la Nube de Microsoft
+¿Hay otra forma quen o sea la terminal para trabajar con Github?
+El trabajo distribuido implica que estamos trabajando con más personas, donde cada una tiene su propio repositorio, con sus propios branches, …
+En este entorno empezaremos trabajando con un clone de forma que tengamos nuestra propia copia en local.
+A partir de aquí editaremos ficheros y haremos commit tantas veces como queramos. Simplemente hay que tener en cuenta que todos estos commits los estamos haciendo sobre nuestro repositorio local.
+La cuestión es como sincronizamos estos cambios que tenemos en nuestro local con el repositorio original del cual hicimos el clone. Pues bien, tenemos dos herramientas básicas:
+git pull – “Tira” de un repositorio los cambios hacia nuestro repositorio. Nos estamos bajando las actualizaciones.
+git push – “Empuja” nuestros cambios hacia otro repositorio. Es como si estuviéramos subiendo hacia ese repositorio los cambios que hemos hecho en local.
+Vamos a ver algunos modelos de trabajo. Pero no debéis quedaros sólo con esto porque Git, como el resto de sistemas de control de versiones distribuidos, permite un enorme abanico de nuevos modelos de trabajo, al romper “las cadenas” de tener un único repositorio central.
+
