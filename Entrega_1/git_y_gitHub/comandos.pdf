@@ -1,0 +1,26 @@
+inicializar repositorio local:
+git init
+configuracion de usuario global
+git config --global user.name "nombre"
+configuracion de email global
+git config --global user.email "mail"
+añadir archivos al stage:
+git add
+commitear archivos
+git commit -m "nombre del commit"
+añadir repositorio remoto al local
+git remote ad url del repositorio
+confirmar status del repo remoto
+git remote -v
+status de tus archivos
+git status
+estado de tus commits
+git log o git log --oneline
+pushear o subir tus archivos al repo remoto
+git push (-u origin nombreRama para primera vez)
+===================================================================================================
+
+clonar repositorio remoto
+git clone
+traer archivos de repo remoto
+git pull 
