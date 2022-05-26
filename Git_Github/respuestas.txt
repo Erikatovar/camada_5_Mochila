@@ -3,6 +3,7 @@ a. ¿Quién inventó el sistema de control de versión Git y por qué?
 
 b. ¿A quién pertenece actualmente Github y por qué?
 	Pertene a Microsoft GitHub Inc. Microsoft.
+	Microsoft no hace más que apostar más y más fuerte por el Open Source
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
-	Microsoft no hace más que apostar más y más fuerte por el Open Source.
+	Desde la app de GitHub. 
