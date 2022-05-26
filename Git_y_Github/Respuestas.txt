@@ -1,0 +1,3 @@
+a: Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005. Al principio, Git se pensó como un motor de bajo nivel sobre el cual otros pudieran escribir la interfaz de usuario o front end como Cogito o StGIT.
+b: El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares. Porque GitHub cuenta con mas de 28 millones de usuarios y pasara a formar parte del negocio de inteligencia en la nube de Microsoft.
+c: Podemos trabajar con GitHub ya sea desde la Shell que se descarga de la pagina oficial de GitHub, tambien podemos usar dicha terminal desde algun IDE como VSCode como tambien usar la GUI que dispone la pagina.
