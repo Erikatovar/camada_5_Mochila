@@ -1,4 +1,12 @@
-crear carpeta
+git clone url
+git config user.name
+git config user.mail
+git branch ximenaEchavarria
+git checkout ximenaEchavarria
+
+========================================
+
+mkdir "Nombre Carpeta"
 touch archivo.txt
 git init
 git config user.name
