@@ -1,0 +1,15 @@
+a. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló 
+originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+Git se ha ideado para posibilitar la ramificación y el etiquetado como procesos de primera importancia 
+(a diferencia de SVN) y las operaciones que afectan a las ramas y las etiquetas (como la fusión o la reversión)
+ también se almacenan en el historial de cambios.
+b. Actualmente GitHub pertenece a Microsoft y su adquisición fue el 4 de junio de 2018. La compró con el objetivo que los desarrolladores aprendan, 
+compartan y trabajen juntos para crear software
+c. Existen siete alternativas para GitHub:
+-Bitbucket.
+-SourceForge.
+-GitLab.
+-Kiln.
+-Codeplane.
+-CodePlex.
+-Beanstalk.
