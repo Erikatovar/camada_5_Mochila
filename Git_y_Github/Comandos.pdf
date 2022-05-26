@@ -1,0 +1,30 @@
+  Git init
+
+  Git add **(sirve para agregar archivos)**
+
+  git commit -m “Primer commit” **(Sirve para guardar los cambios)**
+
+  git branch -M main **(Sirve para cambiar el nombre de la rama)**
+
+  git remote add origin “ellinkdelgithub” **(como para vincular)**
+
+  git push -u origin main **(Subir a la nube)**
+
+  git status **(para ver el estado de los archivos)**
+
+  git log **(para ver los commit)**
+
+  git clone “url_repo” **(para clonar en tu pc)**
+
+  git pull origin master (**actualizás el código en tu repositorio local)**
+
+  git checkout **(para moverse de rama)**
+
+  git branch mauro **(crea una rama llamada mauro)**
+
+  git branch -D <branch> **(Fuerza la eliminación de la rama especificada)**
+
+  git remote -v **(Deberíamos ver en la terminal la palabra origin seguida de la
+URL)**
+
+  git reset HEAD **(cuando queremos volver a un commit anterior, si queremos volver a más de un commit, debemos poner el número de commits después de HEAD. Ejemplo: HEAD~2)**
