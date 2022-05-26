@@ -1,0 +1,13 @@
+a-¿Quién inventó el sistema de control de versión Git y por qué?
+Se desarrolló originalmente por Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+Se crea para la eficiencia y la confiabilidad del mantenimiento de versiones en un proyecto. 
+Su propósito es llevar un registro de los cambios en archivos de computadora y coordinar el trabajo que varias personas realizan sobre archivos compartidos.
+
+b-¿A quién pertenece actualmente Github y por qué?
+El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares. 
+Porque GitHub tiene más de 28 millones de usuarios y quiería pasar a formar parte del negocio de inteligencia en la nube de microsoft.
+
+c-¿Hay otra forma que no sea la terminal para trabajar con Github?
+Existen herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades. 
+La línea de comandos es el único lugar en donde puedes ejecutar todos los comandos de Git, la mayoría de interfaces gráficas de usuario solo implementan una parte de las características de Git por motivos de simplicidad. 
+La decisión de qué cliente gráfico utilizar depende totalmente de tu gusto, Terminal en Mac, o el "Command Prompt" o "Powershell" en Windows.
