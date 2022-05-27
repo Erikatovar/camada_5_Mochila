@@ -1,0 +1,6 @@
+Pregunta 1
+Linus Torvalds used to work with BitKeeper to control the Dev’s codes in order to develop Linux, in 2005 BitKeeper decided to start billing for its services, something that Linus refuses to pay. How did he manage then? He developed his own version control system, open sourced like Kernel called Git!
+Pregunta 2
+Lo compro Microsoft, aun averiguando al razon
+Pregunta 3 
+Con la aplicacion de GitHub
