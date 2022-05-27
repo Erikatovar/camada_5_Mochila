@@ -1,0 +1,3 @@
+Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+Microsoft compro GitHub, de esta forma aumento infinitamente la confianza de los usuarios en la plataforma.
+Se pueden utilizar algunas otras herramientas, pero nada como la terminal.
