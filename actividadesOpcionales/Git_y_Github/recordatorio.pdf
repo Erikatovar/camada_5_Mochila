@@ -1,0 +1,16 @@
+mkdir "......"
+touch archivo.txt
+git init
+git config user.name
+git config user.mail
+git add.
+git commit -m”comentario”
+git remote add origin url(del github)
+git push origin main -u /  - - set-upstream
+============================================
+git clone url
+git config user.name
+git config user.mail
+git branch viggoFontana
+git checkout viggoFontana
+
