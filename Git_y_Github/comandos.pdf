@@ -1,0 +1,25 @@
+Iniciando un repositorio nuevo
+git config --global user.name "nombre de usuario" // configura el nombre de usuario
+git config --global user.email email@email.com // configura el mail
+git init // crea el repositorio
+git add . / "nombre" // agrega el archivo que utilizamos
+git commit -m (mensaje) // commitea los cambio
+git push origin main // lo sube a github a la rama principal
+==================================================
+Clonando y trabajando en la rama principal
+Git clone "dirreccion URL del Repo" // clona el repositorio creado por alguin mas
+cd "carpeta de repositorio" // nos ubicamos en esa carpeta
+touch "a"
+git add .
+git commit -m "nombre de commit"
+git push origin main
+=====================================================
+Clonando y haciendo una rama
+Git clone "dirreccion URL del Repo"
+cd "carpeta de repositorio"
+git branch "nombrerama" // crea rama en el git hub
+git checkout "nombrerama" // nos dirigimos a la nueva rama
+touch "a"
+git add .
+git commit -m "nombre de commite"
+git push origin "nombrerama" // sube los archivos a la rama creada anteriormente
