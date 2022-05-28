@@ -1,0 +1,5 @@
+1.lo invento Linus Torvalds, El propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos.
+
+2. actualmente pertenece a Microsoft, seg Bill Gate, es para que microsoft se incluya en la Open Source, pero hay muchas opiniones en el medio. 
+
+3. si hay otras formas de trabajar con Github como: GitHub Desktop, SourceTree, SmartGit, GitKraken, GitForce, Magit!, TortoiseGit, Aurees, etc.
