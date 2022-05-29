@@ -1,0 +1,31 @@
+comandos pasa a pasa para crear un repositorio local
+git init :crea el repositorio
+
+git config user.name "nombreUsuario": agregamos usuario
+
+git config user.email "userEmail": agregamos email
+
+git remote add origin http://.... : agregamos el repositorio remoto
+
+Comandos para subir cambios 
+git add . :agrega todos los archivos
+
+git add "nombre del archivo" :agrega un archivo en especifico"
+
+git commit -m "mensaje" : commietea los cambios, el mensaje debe ser especifcamente que contiene el archivo o los cambios
+
+git push origin master : envia los cambios al repositorio remoto
+
+git status : hace un seguimiento de los estados de los archivos
+
+Otros Comandos
+
+git branch : ver las ramas existentes
+
+git branch "nombre de la rama" : para crear un rama 
+
+git branch -d "nombre de la rama" : para borrar una rama 
+
+git checkout "nombre de la rama" : nos sirve para movernos entre las ramas
+
+
