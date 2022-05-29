@@ -1,0 +1,19 @@
+git init // crea el repositorio
+git config user.name "nombreUsuario" // agrega nuestra identidad
+git config user.name // muestra el usuario agregado
+git config user.email "emailUsuario" // agrega nuestro e-mail
+git config user.email // muestra el email agregado
+git remote add origin http://... // apunta al repositorio remoto
+git remote -v //muestra repositorio en github al cual esta apuntado el repositorio local
+git commit -m "mensaje" // commitea los cambios hechos
+git push -u origin main // envía los cambios al repositorio remoto, en la rama main. El atributo -u se usa la primera vez.
+git status // realiza un seguimiento de los estados de los archivos
+git add . // agrega todos los archivos
+git pull// descarga los cambios que existen en el repositorio remoto
+git branch "nombreRama" //crea la rama nombreRama
+git branch // lista las ramas existente y en que rama estoy posicionado
+git checkout "nombreRama" //cambio a la rama nombreRama
+git switch -c "nombreRama" //crea la rama nombreRama
+git switch "nombreRama" //cambio a la rama nombreRama
+git clone linkDelRepo //clonamos el repositorio en nuestra máquina
+git --version //muestra version de git instalado
