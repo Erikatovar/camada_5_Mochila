@@ -22,4 +22,3 @@ git branch nombreDeLaRama >> Crea una rama nueva.
 
 git checkout nombreDeLaRama >> Permite desplazarte entre las ramas creadas por git branch.
 
-git log >> Muestra historial del repositorio.
