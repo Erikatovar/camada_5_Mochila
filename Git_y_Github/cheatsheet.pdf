@@ -1,4 +1,4 @@
-git init  // Crear repositorio
+git init >> Crear repositorio
 
 git config user.name "nombreUsuario" >> configura nuestro "nombre de usuario"
 
@@ -22,4 +22,4 @@ git branch nombreDeLaRama >> Crea una rama nueva
 
 git checkout nombreDeLaRama >> Permite desplazarte entre las ramas creadas por git branch
 
-git log // Muestra historial del repositorio.
+git log >> Muestra historial del repositorio.
