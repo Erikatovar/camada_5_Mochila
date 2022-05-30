@@ -1,0 +1,25 @@
+git init  // Crear repositorio
+
+git config user.name "nombreUsuario" >> configura nuestro "nombre de usuario"
+
+git config user.email "emailUsuario" >> configura e-mail de usuario
+
+git remote add origin http://... >> Agrega repositorio remoto elegido
+
+git add .  >> Agrega todos los archivos dentro del directorio. 
+
+git commit -m "mensaje"  >> Crea un commit con el "mensaje elegido"
+
+git push origin main  >> Sube commit a repositorio remoto.
+
+git status >> muestra el estado del directorio.
+
+git pull >> Extraer y descarga contenido desde un repositorio remoto.
+
+git clone + URL >> Clona o copia dicho repositorio en un nuevo directorio.
+
+git branch nombreDeLaRama >> Crea una rama nueva
+
+git checkout nombreDeLaRama >> Permite desplazarte entre las ramas creadas por git branch
+
+git log // Muestra historial del repositorio.
