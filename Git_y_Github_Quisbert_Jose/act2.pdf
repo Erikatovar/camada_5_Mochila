@@ -1,0 +1,61 @@
+git init			repositorio local(almacena archivos en paquetes Commits)
+
+git add
+
+git add .					agrega todos los archivos presentes
+
+git status					seguimiento del estado de los archivos
+
+git config user.name "mi-usuario"		--global:para configurarlo una vez.
+
+git config user.email "miCorreo@email.com"
+
+git commit -m "mensaje"				comitea los cambios	
+
+rm -r .git					para borrar la carpeta .git
+
+git log						historial de los commit
+git log --oneline
+
+
+git remote add origin + link de github		indica al repositorio local con q repositorio remoto debe sincronizar
+
+git remote -v					comprueba la sincronizacion de los repositorios			
+
+
+
+git push origin main				envia los archivos del repositorio local al remoto
+
+git push -u origin main				pushear el contenido, y ademas configura para q despues solo escribas git push.
+
+
+
+git clone +LINK DEL REPOSITORIO			Crea una copia exacta en la pc de todos los archivos existentes en un repositorio remoto, y no es necesario hacer un git init y git remote.
+
+git pull origin main				Solamente descarga y actualiza aquellos archivos que sufrieron una modificacion, archivo nuevo existente
+git pull origin nombrederama
+
+
+git branch  +nombre				para crear una rama
+git branch					enumera todas las ramas de tu repositorio
+
+git branch -M nombreDeRamaDondeEstoyParado	renombrar la rama
+git branch -m NombreMiRama SuNuevoNombre
+
+git branch -d					borrar
+git branch -D					fuerza la eliminacion de la rama local especificada, incluso si tiene cambios sin fusionar
+git checkout -b nombrederama			crea y te mueve a la rama
+git checkout nombrederama
+git push origin nombrederama
+
+
+git push origin --delete nombreDeRamaParaEliminar	Borrar la rama de forma remota
+
+parandose en la main
+git merge nombrederama				para que la main se afecte con los cambios de la rama		
+
+git restore --staged nombredearchivo		Moverlo al stage
+git restore nombrearchivo			lo sacaria del area de trabajo, es un cntrl+Z	
+
+git checkout nombredemiramayacreada		Me muevo a la rama seleccionada.
+git switch   nombredemiramayacreada
