@@ -1,5 +1,22 @@
-Crear
-Clonar un repositorio existente
-$ git clone ssh://usuario@domain.com/repo.git
-Crear un nuevo repositorio local
-$ git init
+git clone + url 
+git config user.name 
+git config user.email
+git branch + nombreApellido
+git checkout + nombreApellido
+git push origin nombreApellido
+touch archivo 
+git add . 
+git commit -m "commit"
+git push origin nombreApellido -u / --set-upstream 
+
+=======================
+mkdir 
+touch 
+git init 
+git config user.name 
+git config user.email
+git add . 
+git commit -m "commit"
+git branch 
+git remote add origin + url
+git push -u origin main / --set-upstream (editado)
