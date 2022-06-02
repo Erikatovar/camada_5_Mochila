@@ -16,3 +16,35 @@ h1 {
     color: #005677;
     text-align: center;
 }
+h2{
+    font-family: 'Times New Roman';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 84.69%;
+color: #005677;
+background-color: #c4c4c4;
+}
+span{
+    font-family: 'Times New Roman';
+    font-weight: 700;
+    font-style: italic;
+    font-size: 15px;
+    color: black;
+}
+li{
+    font-family: 'Times New Roman';
+    font-weight: 400;  
+    font-size: 15px;
+    color: black;
+}
+footer{
+    position: absolute;
+width: 1440px;
+height: 37px;
+left: 0px;
+top: 987px;
+}
+p#nume {
+    text-align: center;
+}
