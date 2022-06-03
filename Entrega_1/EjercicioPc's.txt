@@ -1,0 +1,65 @@
+Equipo 2: Valentina Gimenez, Mauro Tapia, Juan David García y Jazmín Carrizo.
+
+
+GAMA BAJA
+Intel - Core i3
+Mother Asrock B365M-OEM
+Usar Cooler CPU incluido en el procesador Intel
+Memoria Adata DDR4 4GB 2666MHz Value
+Disco Solido SSD Team 128GB GX2 530MB/s
+
+
+AMD Athlon 320GE 3.5Ghz AM4
+Mother Gigabyte AB350M V2.0 DS3H AM4
+Memoria Adata DDR4 4GB 2666MHz Value
+Disco Solido SSD Team 128GB GX2 530MB/s
+
+
+Intel Celeron G5905 3.5GHz Socket 1200
+Mother Gigabyte H410M H V3 S1200
+Memoria Team DDR4 4GB 2400MHz Elite Plus Black
+Disco Solido SSD Team 256GB GX2 530MB/s
+
+
+GAMA MEDIA
+Mother ASUS PRIME B560M-A S1200 11th Gen
+Procesador Intel Core i5 10400 4.3GHz Turbo 1200 Comet Lake
+2 x Memoria Patriot Viper DDR4 8GB 3600MHz Steel
+Placa de Video Asrock Radeon RX 570 4GB Phantom Gaming X OC
+Disco Sólido SSD WD 480GB GREEN 545MB/s SATA
+
+
+Mother A320M Asrock
+Procesador AMD Ryzen 5 5600X 4.6GHz Turbo AM4 + Wraith Stealth Cooler
+2 x Memoria Adata DDR4 8GB 3000MHz XPG Spectrix RGB D41 Grey
+Placa de Video Asrock RX 570 8GB GDDR5 Phantom Gaming Elite
+Disco Sólido SSD Kingston 480GB A400 500MB/s2
+
+
+Mother ASUS PRIME B550M-A WIFI AM4
+Procesador AMD RYZEN 5 3600 4.2GHz Turbo AM4 Wraith Stealth Cooler
+2 x Memoria Team DDR4 8GB 2666MHz T-Force Zeus
+Placa de Video Zotac GeForce GTX 1660 SUPER Twin Fan Black
+Disco solido SSD M.2 Patriot 480GB P310 1700MB/s Pcie Gen3 x4
+
+
+GAMA ALTA
+Procesador Intel Core i7-11700KF
+Mother Gigabyte Z690 AORUS ELITE DDR4
+2x Memoria Patriot Viper DDR4 16GB 3600MHz Steel
+Placa de Video Zotac GeForce RTX 3060 Ti 8GB GDDR6 Twin Edge LHR
+Disco Solido SSD M.2 WD 960GB Green SN350 2400MB/s NVMe PCI-Express x4
+
+
+Procesador Amd Ryzen 9 5950X 4.9GHz Turbo AM4
+Mother ASUS ROG X570 CROSSHAIR VIII EXTREME
+Memoria Patriot Viper DDR4 32GB 3000Mhz Steel
+Placa de Video ASUS Radeon RX 6800 XT 16GB GDDR6 TUF GAMING OC
+Disco Solido SSD M.2 Team 1TB T-Create 2100MB/s NVMe
+
+
+Mother ASUS ROG MAXIMUS Z690 EXTREME GLACIAL
+Procesador Intel Core i9 12900K 5.2GHz Turbo Socket 1700
+Memoria Team DDR5 32GB (2x16GB) 6400MHz T-Force Delta RGB White
+Placa de Video ASUS GeForce RTX 3090 24GB GDDR6X TUF GAMING OC
+Disco Solido SSD M.2 Team 1TB Cardea A440 7000MB/s NVMe PCI-E Gen4
