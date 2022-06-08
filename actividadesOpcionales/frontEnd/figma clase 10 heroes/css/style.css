@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.header1 {
+    background-color: #1cd1b0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 10px 10px;
+}
+
+.header2 {
+    background-color: #00669f;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    padding: 20px 10px;
+    
+    
+}
+
+
+.tarjetas {
+    position: relative;
+    width: 960px;
+height: 530px;
+left: 32px;
+top: 292px;
+border-radius: 5px;
+}
+
+.batman {
+    position: relative;
+    width: 300px;
+    
+}
+.corazon {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+}
+div img.perfil {
+    width: 68px;
+}
