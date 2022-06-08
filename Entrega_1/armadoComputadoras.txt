@@ -1,0 +1,67 @@
+1) Gama Baja 	
+	
+Intel	
+Procesador:	Core i3 9100
+Placa madre: Mother Asrock B365M-OEM
+Memoria principal: Memoria Team DDR4 4GB 2400Mhz Elite Plus Red
+Memoria secundaria: Disco rígido WD 1TB BLUE 64MB SATA 6.0GB/s
+	
+AMD	
+Procesador:	AMD Athlon 320GE 3.5Ghz AM4
+Placa madre: Mother ASUS PRIME A320M-K Ryzen 2da Gen Ready M-ATX
+Memoria principal: Memoria Adata DDR4 4GB 2666MHz Value
+Memoria secundaria:Disco rígido WD 1TB BLUE 64MB SATA 6.0GB/s
+
+Elaboracion propia:	
+Procesador:	Intel Core i3-12100 3.3 GHz Quad-Core
+Placa madre: ASRock B660M-ITX/ac Mini ITX LGA1700 Motherboard
+Memoria principal: Kingston 4 GB DDR4-3200 RAM
+Memoria secundaria: 1TB NVMe SSD (+$98)
+	
+	
+2) Gama Media	
+	
+Intel	
+Procesador:	Procesador Intel Core i5 10400F 4.3GHz Turbo 1200 
+Placa madre: ASUS PRIME B560M-A S1200 11th Gen
+Memoria principal: Memoria GeiL DDR4 8GB 2666MHz EVO Potenza Black 
+Memoria secundaria: Disco Sólido SSD Gigabyte 1TB 520MB/s SATA 6GB/s
+GPU:	Placa de Video GeForce ASUS GTX 1650 4GB GDDR6 Phoenix OC 
+	
+AMD	
+Procesador:	Procesador AMD RYZEN 5 PRO 2600 3.90GHz AM4 OEM Sin Cooler
+Placa madre: A320M Asrock
+Memoria principal: Memoria GeiL DDR4 8GB 2666MHz EVO Potenza Black 
+Memoria secundaria: Disco Sólido SSD Gigabyte 1TB 520MB/s SATA 6GB/s
+GPU: Placa de Video GeForce ASUS GTX 1650 4GB GDDR6 Phoenix OC 
+
+Elabolarion Propia	
+Procesador:	Intel Core i5-10400F 2.9 GHz 6-Core Processor
+Placa madre: ASRock B460M-ITX/ac Mini ITX LGA1200 Motherboard
+Memoria principal: Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3000 CL15 Memory
+Memoria secundaria: Crucial P2 500 GB M.2-2280 NVME SSD
+GPU:Palit GeForce RTX 3060 12 GB StormX
+	
+	
+3) Gama Alta	
+	
+Intel	
+Procesador:	Core i7-11700KF
+Placa madre: Mother Gigabyte Z690 AORUS PRO DDR4
+Memoria principal: Memoria Patriot Viper DDR4 32GB (2x16GB) 3200Mhz Steel RGB 
+Memoria secundaria: Disco Solido SSD M.2 ADATA 2TB XPG SX8100 3500MB/s NVMe 
+GPU:	Placa de Video ASUS GeForce GTX 1660 SUPER 6GB GDDR6 OC TUF
+	
+AMD	
+Procesador:	Amd Ryzen 9 5950X 4.9GHz Turbo AM4
+Placa madre: Mother ASUS ROG X570 CROSSHAIR VIII AM4 DARK HERO
+Memoria principal: Memoria Patriot Viper DDR4 32GB (2x16GB) 3200Mhz Steel RGB Black
+Memoria secundaria: Disco Solido SSD M.2 ADATA 2TB XPG SX8100 3500MB/s NVMe 
+GPU: Placa de Video XFX Radeon RX 6700 XT CORE 12GB GDDR6 SWFT 
+
+Elaboracion Propia
+Procesador:Intel Core i7-11700K 3.6 GHz 8-Core
+Placa madre:Asus ROG STRIX Z590-A GAMING WIFI ATX LGA1200
+Memoria principal: Corsair Vengeance RGB Pro SL 16 GB (2 x 8 GB) DDR4-3200 CL16
+Memoria secundaria: Samsung 980 Pro 1 TB M.2-2280 NVME SSD
+GPU: Asus GeForce RTX 3080 10GB 10 GB ROG STRIX WHITE OC
