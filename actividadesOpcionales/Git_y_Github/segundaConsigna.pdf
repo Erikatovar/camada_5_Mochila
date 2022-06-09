@@ -1,0 +1,14 @@
+Clonar un repositorio ---> git clone + url
+Crear un repositorio local ---> git init
+Agregar los cambios al stage ---> git add + nombre de archivo
+Configurar nombre de usuario y mail del repositorio ---> git config user.name/email 
+Conecta el repositorio remoto con el local ---> git remote add origin + url
+Comitear los cambios hechos ---> git commit -m "mensaje"
+Realizar un seguimiento de los estados de los archivos ---> git status
+Descargar los cambios que existen en el repositorio remoto ---> git pull
+Realizar un seguimiento de los commits hechos ---> git log
+Enviar los cambios al repositorio remoto ---> git push origin nombreDeLaRama
+Crear una rama ---> git branch nombreDeLaRama
+Chequear las ramas hechas ---> git branch
+Moverse entre ramas ---> git checkout nombreDeLaRama
+Fusionar 2 ramas ---> git merge nombreDeLaRama
