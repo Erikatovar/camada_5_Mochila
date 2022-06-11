@@ -1,4 +1,3 @@
 a-Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código
 b-Actualmete microsoft es dueño de Githup con el objetivo en crecer en la industria generando un contacto directo con los desarrolladores, que trabajan en esos servicios, ver sus necesidades y ofrecer herramientas que faciliten su integracion.
-c-Hoy en dia existen diversas alternativa a Github,como Azure DevOps Server, Kiuwan, Apache Subversion, entre otras. sh: respuesta: command not found
-
+c-Hoy en dia existen diversas alternativa a Github,como Azure DevOps Server, Kiuwan, Apache Subversion, entre otras.

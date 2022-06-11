@@ -1,4 +1,0 @@
-﻿¿Que es un usuario root en linux?
-Es el usuario administrador del sistema.
-¿Por qué ubuntu no me deja establecer la contraseña durante la instalación?
-porque en ubuntu el usuario puede escalar permisos como root haciendo uso del comando sudo o su.
