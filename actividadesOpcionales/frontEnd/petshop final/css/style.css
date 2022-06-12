@@ -29,7 +29,7 @@ h4{
     list-style-type:none;
     padding: 4px 60px;
  }
- footer {
+ header {
     display: flex;
     background: #F0A83E;
     height: 62px;
@@ -284,5 +284,53 @@ h4{
     color: #ffff;
     margin-top: 3px;
 }
+.botton {
+    display: flex;
+    background-color:#3C2313 ;
+    height: 284px;
+    justify-content: space-between;
+}
+.botton .info {
+    display: flex;
+    flex-direction: column;
+}
+.info article {
+    display: flex;
+    margin-left: 70px;
+    margin-top: 23px;
+}
+#logo {
+    width: 166px;
+    height: 23px;
+    position: relative;
+    top: 130px;
+    right: 70px;
+}
+.botton .info .link h6{
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+.botton .info .link p {
+    font-size: 10px;
+    color: #8A8787;
 
-
+}
+.link {
+    text-align: left;
+    margin-left: 29px;
+    margin-top: 5px;
+}
+body footer {
+    background-color: #222222;
+    height: 20px;
+}
+body footer{
+    display: flex;
+    color: white;
+    font-weight: 700;
+    font-size: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
