@@ -1,0 +1,1 @@
+Lo que sucede al escribir el comando "rm -r / --no-preserve-root" es un intento de borrar todos los archivos del sistema pero el mismo no permite realizar la actividad.
