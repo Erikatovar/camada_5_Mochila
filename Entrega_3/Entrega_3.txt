@@ -1,0 +1,16 @@
+1) Porque un lenguaje de programacion compila a un lenguaje ensamblador
+   el cual es ejecutado por el sistema operativo. Este lenguaje depende 
+   de 2 cosas, de la arquitectura del procesador y de la interpretacion
+   que le de el sistema operativo.
+
+2) Tipos de maquinas virtuales que soporta virtualBox:
+   Microsoft windows, linux, solaris, BSD, IBM OS/2, Mac OS X, entre otras.
+
+3) Un hipervisor es un proceso que crea y ejecuta maquinas virtuales.
+   Tambien permite que un ordenador host preste soporte a varias 
+   maquinas virtuales invitadas mediante el uso compartido virtual
+   de sus recursos, como la memoria y el procesador.
+
+4) Si se rompe una maquina virtual y tengo instaladas mas, esto no afecta
+   a las otras ya que estan en distintas instancias virtuales.
+
