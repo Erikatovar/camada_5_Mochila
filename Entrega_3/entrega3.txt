@@ -1,0 +1,7 @@
+1.Cualquier lenguaje de programacion puede usarse en cualquier sistema operativo siempre y cuando haya un interprete o compilador (segun corresponda al lenguaje en cuestion), si es que deseas programar en esa maquina con ese sistema operativo. De esta forma no podrias utilizar cierto lenguaje si ese sistema operativo no tiene forma de utilizar el compilador en cuestion.
+
+2.Entre los SO que soporta virtualBox se encuentran GNU/Linux MAC OSX, OS/2 Warp, Genode, Windows y Solaris/OpenSolaris y muchos mas.
+
+3.Un Hipervisor, conocido tambien como monitor de maquinas virtuales, es un proceso que crea y ejecuta maquinas virtuales. Uun hipervisor permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+
+4.Si tengo mas de una maquina virtual, cada una es independiente de las demas, de esta forma podemos tranquilamente “romper” indistintamente que, las maquinas restantes, no van a ser afectadas.
