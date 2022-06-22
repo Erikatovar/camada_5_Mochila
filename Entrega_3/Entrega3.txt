@@ -1,0 +1,32 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+Cualquier lenguaje de programación puede usarse en un sistema siempre y cuando haya un intérprete o compilador (según corresponda al lenguaje en cuestión) si es que deseas programar en esa máquina con ese sistema operativo. Obvio si no hay tal intérprete o compilador no podrás usar ESE, tu lenguaje favorito, en ese sistema.
+
+Además, por otro lado, es factible utilizar una técnica llamada cross-compile en donde en una máquina y sistema operativo "X" puedes compilar código objeto (lease, binarios ejecutables) para otra máquina o sistema diferente "Y". Al decir "diferente" puede ser: diferente sistema operativo, diferente procesador y, en casos extremos hasta diferentes arquitecturas de procesador.
+
+Después de todo, las nuevas tecnologías son diseñadas por otros sistemas, precursores, más viejos si lo quieres ver así.
+
+
+
+
+
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+
+Es posible virtualizar los sistemas operativos FreeBSD, GNU/Linux, OpenBSD, OS/2 Warp, Windows, Solaris, MS-DOS, Genode y muchos otros.
+
+
+
+¿Qué función cumple el hypervisor en la virtualización?
+
+El hipervisor (ej: VirtualBox) conocido también como monitor de máquina virtual (VMM), es un software que crea y ejecuta máquinas virtuales (VM), además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas.
+
+El hipervisor proporciona a cada máquina virtual los recursos que se le habían asignado, y gestiona la programación de ellos en función de los recursos físicos. Con un hipervisor, muchos sistemas operativos diferentes pueden funcionar a la par y compartir los mismos recursos de hardware virtualizados.
+
+
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+
+No, no afecta a las demás porque una máquina virtual es un software que crea una capa independiente donde se emula el funcionamiento de un ordenador real con todos los componentes de hardware que necesita para funcionar y que puede ejecutar cualquier sistema operativo o programa, tal y como lo haría un ordenador real. Toda esta emulación se encapsula en una serie de archivos que actúan como contendor desde el que se ejecuta la máquina virtual en una ventana de tu ordenador como si de un programa más se tratara y sin que nada de lo que suceda en el interior de esa ventana afecte al ordenador que la ejecuta.
+
+ 
+
