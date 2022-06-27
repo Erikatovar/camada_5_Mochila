@@ -45,6 +45,12 @@ h4{
      padding: 23px 40px;
    
  }
+ header div ul li::before{
+    font-family: 'Font Awesome 5 Free' ;
+    content: "\f1b0";
+    font-weight: 900;
+    margin-right: 2px;
+ }
  .logo1 {
      width: 180px;
      padding: 19px 0px 20px 40px;
@@ -65,6 +71,7 @@ h4{
     right: 50px;
     top: 20px;
 }*/
+
 .bg-plato div p {
     display: inline-block;
     background-color: #ffff;
@@ -333,4 +340,10 @@ body footer{
     text-align: center;
     justify-content: center;
     align-items: center;
+}
+
+@media (min-width: 460px) {
+    body {
+        
+    }
 }
