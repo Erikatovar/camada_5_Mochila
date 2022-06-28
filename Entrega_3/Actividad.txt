@@ -1,0 +1,18 @@
+1. Porqué un lenguaje de programación solo puede utilizarse en algunos sistemas operativos y en otros no ?
+rta/; Algunos lenguajes de programación utilizan vienen con su propia maquina virtual por dentro, la maqina de procesos y muchas veces no la tenemos en nuestro dispositivo.
+, por eso no funciona, hace falta bajar la SDK para que funcione.
+
+2. Qué tipo de máquina virtual soporta Virtual Box'
+Rta/:Virtual Box soporta máquinas de sistema 
+
+3. Qué funcion cumple el hipervisor en la virtualización ?
+Rta/: El hipervisor se encarga de permitir usar diferentes sistemas operativos, sin modificarlos internamente en una computadora.
+
+4. Si tengo mas de una maquina virtual instalada y esta se rompe, esto afecta a las demas?
+Porqué?
+
+Rta/: No, las máquinas virtuales son independientes, se pueden romper cuantas veces se deseen, sin comprometer a las demás.
+
+ 
+
+ 
