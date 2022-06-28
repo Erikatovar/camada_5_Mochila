@@ -9,5 +9,10 @@ Respuesta: Es un software de virtualización tiene tipos como: Microsoft Windows
 3.- Qué función cumple el hypervisor en la virtualización?
 Respuesta: es una capa de software para realizar una virtualización de hardware que permite utilizar, al mismo tiempo, diferentes sistemas operativos.
 
-3.- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿Por qué?
+4.- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿Por qué?
 Respuesta: La que se rompe no afecta a ninguna otra máquina virtual, porque cada una de ellas está “encapsulada”, la falla queda en esa máquina virtual que se ejecutó el error.
+
+
+Firma
+JDC
+
