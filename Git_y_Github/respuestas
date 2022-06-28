@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+a-Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código
+b-Actualmete microsoft es dueño de Githup con el objetivo en crecer en la industria generando un contacto directo con los desarrolladores, que trabajan en esos servicios, ver sus necesidades y ofrecer herramientas que faciliten su integracion.
+c-Hoy en dia existen diversas alternativa a Github,como Azure DevOps Server, Kiuwan, Apache Subversion, entre otras.
+=======
+a- Github fue desarrollado por Cris Wanstrath,P.J.Hyett,Tom Preston-Werner y Scott Chacon, con el objetivo de que sea una plataforma de desarrollo colaborativa para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmentte para la creacion de codigos,fuentes de programas de ordenador.
+b-Microsoft compro GitHub el 4 de junio de 2018 para tener un enfoque mas central en el desarrolloy operar de forma independiente para proporcionar una plataforma abierta para todos los desarorlladores de todas las industrias
+b-se peden utilizar distintas interfaces. 
+>>>>>>> 8c5872fedf22f13a018a1e2e57754e16f1c32cf0
