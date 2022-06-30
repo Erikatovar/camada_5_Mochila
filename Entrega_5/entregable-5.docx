@@ -1,0 +1,20 @@
+MI IP EN OPERA SIN VPN: 181.95.109.161
+MI IP EN OPERA CON VPN: 77.111.246.40 - localizada en E.E.U.U.
+MI IP EN TOR CON SU RED ACTIVADA Y CONECTADA: 109.70.100.27
+
+
+1-) Las ip publicas no son las mismas ya que varian segun el servidor que provea el enrutamiento 
+
+2-) sin vpn no se puede ver, ya que el contenido no esta permitido para nuestra region. con vpn por el contrario, funciona ya que la direccion ip que nos provee proviene de una region donde esta permitido el contenido.
+
+3-) la ip no se puede localizar con tor ya que esta distribuida, no tiene un lugar central.
+
+-----------------------
+SPEED TEST CON VPN: 1mbps de descarga y 9.8mbps de subida 216 de ping
+SPEED TEST EN TOR CON RED ACTIVADA: 6.5mbps de descarga y 0.98mbps de subida 530 de ping
+SPEED TEST SIN VPN: 45mbps de descarga y 38mbps de subida. 7 de ping
+ 
+
+1-) las velocidades son todas diferentes ya que con vpn los servidores suelen estar demasiado lejos, en cualquier parte del mundo. tambien puede suceder que el servidor que intentemos acceder esta sobrecargado.
+2-) el ping es la velocidad en que se transfieren los paquetes de datos, estan medidos en milisegundos (ms).
+3-) el ping varia entre las diferentes opciones ya que entre mas lejos y repartidos estan los servidores que utilizamos con vpn y tor mas se tardara el paquete de datos en llegar a su destino.
