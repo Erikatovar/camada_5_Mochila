@@ -1,0 +1,31 @@
+-¿Las ip públicas son las mismas? ¿por qué?
+No, no son las mismas porque el vpn del navegador, cambia la ip. 
+
+-Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Sin utilizar vpn no se puede ver el video ya que para mi pais esta prohibido, con el vpn de Opera si deja verlo porque al cambiarme la ip, me localiza en otro sitio del mundo donde si esta permitido ver el video.
+
+-Utilizando Tor ¿pudimos localizar la IP ?  
+No, no indica donde esta localizada la ip.
+
+Opera Test: 
+    DOWNLOAD Mbps: 97.67
+    UPLOAD Mbps: 102.65
+
+Opera Vpn Test: 
+    DOWNLOAD Mbps: 1.05
+    UPLOAD Mbps: 9.34
+
+Tor Test: 
+Download Mbps: 23.19
+Upload Mbps: 2.44
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+    Si, son diferentes. Ya que al activar el VPN se va perdiendo velocidad antes de llegar al servidor, primero pasa por el VPN, después llega al servidor y hace el mismo recorrido a la inversa, por eso disminuye la velocidad.
+
+-¿Que significa el valor del ping?
+
+El ping es el tiempo exacto que demora un paquete de datos en ser enviado de un dispositivo a otro se mide en milisegundos.
+
+-El valor del ping, ¿varia entre las diferentes opciones? ¿Por qué?
+
+El valor del ping varia entre las diferentes opciones porque tiene que recorrer mas distancia una vez que pasa por la vpn y el servidor.
