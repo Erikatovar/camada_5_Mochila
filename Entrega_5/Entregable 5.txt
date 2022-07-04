@@ -1,0 +1,23 @@
+Entregable 5
+
+¿Las ip públicas son las mismas? ¿por qué?
+No, al ser Tor software que junto con una red de computadoras voluntarias oculta tu dirección IP (número que identifica tu máquina en la red) y asigna otra de cualquier parte del mundo para anonimizar las actividades del usuario, las ip generadas en este navegador no van a ser iguales a las obtenidas en los otros navegadores. 
+
+Sin utilizar la VPN puedes ver el siguiente video? Ahora activala e intenta verlo, ¿que es lo que sucedió?¿Por qué?
+Al sacar la VPN no se puede visualizar el video por que no está permitido en el país. Pero al activarlo si se puede.
+
+Utilizando Tor ¿pudimos localizar la IP ?  
+No se pudo localizar la IP dado que Tor oculta tu dirección IP y la coloca como anónima.
+
+¿Las velocidades en los test son diferentes? ¿Por qué crees que sucede esto?
+si, son diferentes por que en opera hay un servidor óptimo al que se le pueda pedir la información de la velocidad de descarga y subida de datos.
+
+¿Qué significa el valor del ping?
+El ping es una unidad de medida que sirve para medir la latencia.La latencia es el tiempo que tarda en transmitirse un paquete de datos dentro de la red. Es decir, es el tiempo exacto que pasa desde que tu dispositivo hizo una solicitud al servidor y el tiempo que tardas en recibir una respuesta desde el servidor.
+Por otro lado, el ping es la medida que se ocupa para medir la latencia y es expresado en milisegundos (o en su abreviación ms). Esto significa que a medida que el ping sea más bajo, mejor. Lo más recomendable es que el ping se encuentre por debajo de los 100 ms, a partir de los 65 ms la conexión es suficiente y no tendrías que sufrir ningún inconveniente para hacer una videollamada. En caso de que seas gamer, el ping más óptimo será de unos 20 ms para que no tengas tanto delay o lag.
+¿Qué es el lag?
+El lag se refiere al retardo excesivo que puede ser producido por una telecomunicación en tiempo real. Sus causas pueden estar relacionadas a una alta latencia en la red o porque no se tiene potencia suficiente de procesamiento en el servicio o cliente con el que se establece la comunicación. Puede ser tu ordenador o la conexión de Internet.
+El lag se produce según el formato en el que se presente. Por ejemplo, en los videos la imagen suele empeorar, tu música puede que tenga un sonido con interferencias y el clásico en videojuegos online, la demora en que tu personaje realice tus comandos.
+
+El valor del ping, ¿varía entre las diferentes opciones? ¿Por qué?
+Si, el número del ping varía de acuerdo a la cercanía del servidor.
