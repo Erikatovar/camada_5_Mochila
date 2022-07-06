@@ -2,3 +2,11 @@
 1) Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
 2) El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.
 3) utilizando github.com o visual studio code
+
+
+
+# Show git branch name
+mostrar_git_branch() {
+     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+}
+export PS1="\u@\h \[\033[32m\]\w\[\033[36m\]\$(mostrar_git_branch)\[\033[00m\] $ "
