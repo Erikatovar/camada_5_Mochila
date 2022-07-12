@@ -1,0 +1,4 @@
+1- Porque el lenguaje de programacion compila lenguaje ensamblador el cual es ejecutado por el sistema operativo, esrte lenguaje ensamblador depende de dos cosas, la arquitectura del procesador y la interpretacion que le le da el sistema operativo. si la computadora cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+2- entre los sistemas operativos soportados se encuentra el GNU,Linux,Mac OS X,Windows, etc.
+3-la Hypervisor conocido tambien como monitor de maquina virtual, es un proceso que crea y ejecuta maquinas virtuales. permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+4- las maquinas virtuales de procesos ejecutan un mismo servidor para ejecutar varias instancias de la misma aplicacion de forma separada. De ese modo, si una falla no afectara a las demas maquinas.
